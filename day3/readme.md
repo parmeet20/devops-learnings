@@ -55,8 +55,7 @@ This demonstrates the **real-world relevance of automation and monitoring** in s
 ## Project Repository
 
 The full project and scripts can be found here:  
-[GitHub Link]  
-
+[https://github.com/parmeet20/devops-learnings]  
 ---
 
 This basic project showcases **real-world use cases of shell scripting** and demonstrates how simple automation can have a significant impact in DevOps workflows.
