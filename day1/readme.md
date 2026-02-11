@@ -43,3 +43,9 @@ Understanding the **core principles of DevOps** is critical before diving into:
 
 DevOps is not just a set of tools—it is a mindset and culture focused on collaboration, automation, and continuous improvement.
 
+<img width="679" height="360" alt="image_2026-02-08_17-05-32" src="https://github.com/user-attachments/assets/8574672b-f0c4-46d7-aeaa-f2a0e7ef6dac" /><br/>
+<img width="489" height="167" alt="image_2026-02-08_17-10-51" src="https://github.com/user-attachments/assets/09b08283-1f4c-49df-95fd-1d3a07389d72" /><br/>
+<img width="444" height="294" alt="image_2026-02-08_20-44-00" src="https://github.com/user-attachments/assets/b25670a0-8950-49aa-8be7-9c52f0241c57" />
+<img width="320" height="320" alt="image_2026-02-08_20-44-50" src="https://github.com/user-attachments/assets/fbb082b5-706c-4504-b819-a41b7c929f90" />
+
+

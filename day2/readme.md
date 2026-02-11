@@ -36,3 +36,5 @@ This document covers the importance of Linux fundamentals and shell scripting in
 - Linux proficiency and shell scripting are **foundational skills** for any DevOps professional.
 - Understanding and practicing these fundamentals prepares teams for **automation, monitoring, and scalable deployment strategies**.
 
+<img width="632" height="321" alt="image_2026-02-09_21-19-32" src="https://github.com/user-attachments/assets/2ef3d563-6367-4710-9737-6e1cc90ce334" />
+
