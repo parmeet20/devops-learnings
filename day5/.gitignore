@@ -1,0 +1,38 @@
+# Binaries
+/bin/
+/build/
+/blog-api
+
+*.exe
+
+# Vendor directory
+/vendor/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Logs
+*.log
+logs/
+
+# Test output
+*.out
+coverage.out
+
+# Go modules cache
+/go.sum
+/go.mod
+
+# Temporary files
+*.tmp
